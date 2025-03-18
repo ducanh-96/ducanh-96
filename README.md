@@ -2,9 +2,9 @@
 
 ---
 
-- 🔭 I’m starting learning and working at [NashTech](https://nashtechglobal.com/ "NashTech")
+- 🔭 I’m starting learning and working at [DaiDungCorp](https://daidung.vn/)
 - 👯 All of my projects are available at [Github](https://github.com/ "Github")
-- 🌱 I’m currently learning Java with Spring Framework
+- 🌱 I’m currently working with Spring Framework and Google App Script
 - 💬 How to phone me (+84)385 472 365
 - 📫 How to reach me **ducanh96kt@gmail.com**
 
