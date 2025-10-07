@@ -1,16 +1,25 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/ducanh-96">Duc Anh Nguyen</a></h1>
-<h3 align="center">💻 Software Developer | 🏗️ Working at <a href="https://daidung.vn/" target="_blank">DaiDungCorp</a></h3>
+<h3 align="center">
+💻 Software Developer | 📊 Data Analyst & System Builder at 
+<a href="https://daidung.vn/" target="_blank">DaiDungCorp</a>
+</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Currently exploring **Spring Framework** and **Google Apps Script**
-- 🔭 Working on internal automation tools & ERP integrations
-- 👯 Open for collaboration on **enterprise solutions** and **automation projects**
-- 📫 Reach me at **ducanh96kt@gmail.com**
+- 💼 Currently working as a **Data Analysis & Production System Engineer**  
+  (Chuyên viên Phân tích dữ liệu & Xây dựng hệ thống Ghi nhận Sản xuất)
+- 🌱 Focused on **building internal systems**, **data-driven automation**, and **integrating factory workflows**  
+- 🔭 Experienced across multiple areas:
+  - **Backend Development:** Java Spring Boot, NodeJS  
+  - **Frontend Development:** ReactJS, NextJS, TypeScript, Javascript  
+  - **Database Management:** MySQL, Firebase, Google Sheets (App Script automation)  
+  - **Data Analysis & Reporting:** Google Data Studio, Power BI, Excel Automation  
+  - **System Integration:** Connecting ERP, production tracking, and Google Workspace APIs  
+- 👯 Open for collaboration on enterprise or production-related automation tools  
+- 📫 Reach me at **ducanh96kt@gmail.com**  
 - 📞 Call me: (+84) 385 472 365  
-
 ---
 
 ### 🧠 Tech Stack
